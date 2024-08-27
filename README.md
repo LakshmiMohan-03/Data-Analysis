@@ -3,3 +3,4 @@ This projects focuses on the exploration and analysis of data to uncover valuabl
 The analysis includes data cleaning, visualization, and statistical analysis to identify patterns and correlations within the dataset.
 
 #SUGARCANE_PRODUCTION
+#BLACK FRIDAY SALES
